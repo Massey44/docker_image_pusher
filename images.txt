@@ -41,5 +41,4 @@
 --platform=linux/arm64 maven:3.8.8-eclipse-temurin-8
 --platform=linux/arm64 maven:3.8.8-eclipse-temurin-17
 --platform=linux/arm64 maven:3.8.8-eclipse-temurin-21
---platform=linux/arm64 mintplexlabs/anythingllm
 --platform=linux/adm64 mintplexlabs/anythingllm
