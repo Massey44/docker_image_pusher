@@ -1,1 +1,1 @@
---platform=linux/amd64 kali
+--platform=linux/amd64 openclaw/openclaw:latest
