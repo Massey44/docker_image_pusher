@@ -1,1 +1,1 @@
---platform=linux/amd64 Kali
+--platform=linux/amd64 kali
