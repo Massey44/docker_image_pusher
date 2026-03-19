@@ -1,1 +1,1 @@
---platform=linux/amd64 openclaw
+--platform=linux/amd64 xhofe/alist
