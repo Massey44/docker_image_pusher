@@ -1,1 +1,1 @@
---platform=linux/amd64 npm:alist
+--platform=linux/amd64 Kali
