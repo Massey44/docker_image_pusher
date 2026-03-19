@@ -44,3 +44,4 @@
 --platform=linux/amd64 mintplexlabs/anythingllm
 --platform=linux/amd64 nginx
 --platform=linux/amd64 php
+--platform=linux/amd64 openclaw
